@@ -1,1 +1,1 @@
-print("prateeksha 120")
+print("Prateeksha 120")
